@@ -635,7 +635,7 @@ h1 {
     .header {
         flex-direction: column;
         align-items: stretch;
-        margin-top: 30px;
+        margin-top: 80px;
     }
 
     #searchBar {
